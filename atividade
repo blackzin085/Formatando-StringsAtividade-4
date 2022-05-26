@@ -1,0 +1,9 @@
+nome = input('jackson ')
+dia = input('17 ')
+mes = input('12 ')
+ano = input('2004 ')
+
+data = nome + dia + mes + ano
+
+
+print ('Eu  {jackson}  nasceu no dia  {17} de {dezenbro de {2004}')
